@@ -1,0 +1,33 @@
+{
+    "common": {
+      "welcome": "Welcome",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "home": {
+      "title": "Home",
+      "subtitle": "Discover a wide variety of beautiful and healthy plants to beautify your home or garden. In our store, you will find a carefully cultivated selection of indoor and outdoor plants."
+    },
+    "about": {
+      "title": "About",
+      "description": "We are a passionate team of plant lovers dedicated to bringing the beauty and benefits of nature to your spaces. Our company was founded with the vision of creating a place where people can find exceptional plants and receive the best possible service."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "It doesn't matter if you're a plant hobbyist or an expert, our blog has something for everyone. We invite you to explore our posts, leave comments, and share your experiences. Join us on this green journey and discover how plants can transform your environment and your life!"
+    },
+    "code": {
+      "title": "Code",
+      "description": "Our team of developers work hard to ensure that our website is secure, efficient and easy to use. In this section, you'll find details about the technologies we use, best coding practices, and creative solutions we've implemented to provide you with an exceptional online environment."
+    },
+    "help": {
+      "title": "Help",
+      "description": "You can communicate with us through our contact channels, either by phone, email or live chat. We are committed to providing you with quick responses and effective solutions. Your satisfaction is our priority."
+    },
+    "contact": {
+      "title": "Contact Me",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+  

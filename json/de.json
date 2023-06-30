@@ -1,0 +1,32 @@
+{
+  "common": {
+    "welcome": "Mehrsprachige Anwendung",
+    "about": "Über",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "Zuhause",
+    "subtitle": "Entdecken Sie eine große Vielfalt an schönen und gesunden Pflanzen zur Verschönerung Ihres Hauses oder Gartens. In unserem Shop finden Sie eine sorgfältig gepflegte Auswahl an Pflanzen für den Innen- und Außenbereich."
+  },
+  "about": {
+    "title": "Über",
+    "description": "Wir sind ein leidenschaftliches Team von Pflanzenliebhabern, die sich dafür einsetzen, die Schönheit und Vorteile der Natur in Ihre Räume zu bringen. Unser Unternehmen wurde mit der Vision gegründet, einen Ort zu schaffen, an dem Menschen außergewöhnliche Pflanzen finden und den bestmöglichen Service erhalten können."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Ob Sie ein Pflanzenliebhaber oder ein Experte sind, unser Blog hat für jeden etwas zu bieten. Wir laden Sie ein, unsere Beiträge zu erkunden, Kommentare zu hinterlassen und Ihre Erfahrungen zu teilen. Begleiten Sie uns auf dieser grünen Reise und entdecken Sie, wie Pflanzen es können. Verwandeln Sie Ihre Umgebung und Ihr Leben!"
+  },
+  "code": {
+    "title": "Code",
+    "description": "Unser Entwicklerteam arbeitet hart daran, sicherzustellen, dass unsere Website sicher, effizient und benutzerfreundlich ist. In diesem Abschnitt finden Sie Details zu den von uns verwendeten Technologien, den besten Codierungspraktiken und den kreativen Lösungen, die wir haben implementiert, um Ihnen eine außergewöhnliche Online-Umgebung zu bieten."
+  },
+  "help": {
+    "title": "Hilfe",
+    "description": "Sie können uns über unsere Kontaktkanäle kontaktieren, sei es per Telefon, E-Mail oder Live-Chat. Wir sind bestrebt, Ihnen schnelle Antworten und effektive Lösungen zu bieten. Ihre Zufriedenheit ist unsere Priorität."
+  },
+  "contact": {
+    "title": "Kontaktiere mich",
+    "email": "E-Mail",
+    "phone": "Telefon"
+  }
+}

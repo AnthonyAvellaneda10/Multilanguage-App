@@ -1,0 +1,33 @@
+{
+    "common": {
+      "welcome": "Applicazione multilingua",
+      "about": "Informazioni",
+      "contact": "Contatti"
+    },
+    "home": {
+      "title": "Casa",
+       "subtitle": "Scopri un'ampia varietà di piante belle e sane per abbellire la tua casa o il tuo giardino. Nel nostro negozio troverai una selezione accuratamente coltivata di piante da interno e da esterno."
+    },
+    "about": {
+      "title": "Informazioni",
+       "description": "Siamo un team appassionato di amanti delle piante dedicato a portare la bellezza e i benefici della natura nei tuoi spazi. La nostra azienda è stata fondata con l'obiettivo di creare un luogo dove le persone possano trovare piante eccezionali e ricevere il miglior servizio possibile. "
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Che tu sia un appassionato di piante o un esperto, il nostro blog ha qualcosa per tutti. Ti invitiamo a esplorare i nostri post, lasciare commenti e condividere le tue esperienze. Unisciti a noi in questo viaggio verde e scopri come le piante possono trasforma il tuo ambiente e la tua vita!"
+    },
+    "code": {
+      "title": "Codice",
+       "description": "Il nostro team di sviluppatori lavora duramente per garantire che il nostro sito Web sia sicuro, efficiente e facile da usare. In questa sezione troverai dettagli sulle tecnologie che utilizziamo, le migliori pratiche di codifica e le soluzioni creative che abbiamo implementato per offrirti un ambiente online eccezionale."
+    },
+    "help": {
+      "title": "Aiuto",
+       "description": "Puoi contattarci attraverso i nostri canali di contatto, sia per telefono, e-mail o live chat. Ci impegniamo a fornirti risposte rapide e soluzioni efficaci. La tua soddisfazione è la nostra priorità."
+    },
+    "contact": {
+      "title": "Contattami",
+      "email": "Email",
+      "phone": "Telefono"
+    }
+  }
+  

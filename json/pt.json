@@ -1,0 +1,33 @@
+{
+    "common": {
+      "welcome": "Aplicativo multilíngue",
+      "about": "Sobre",
+      "contact": "Contato"
+    },
+    "home": {
+      "title": "Início",
+      "subtitle": "Descubra uma grande variedade de plantas bonitas e saudáveis ​​para embelezar sua casa ou jardim. Em nossa loja, você encontrará uma seleção cuidadosamente cultivada de plantas de interior e exterior."
+    },
+    "about": {
+      "title": "Sobre",
+      "description": "Somos uma equipe apaixonada de amantes de plantas dedicada a trazer a beleza e os benefícios da natureza para seus espaços. Nossa empresa foi fundada com a visão de criar um lugar onde as pessoas possam encontrar plantas excepcionais e receber o melhor serviço possível. "
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Seja você um entusiasta de plantas ou um especialista, nosso blog tem algo para todos. Convidamos você a explorar nossas postagens, deixar comentários e compartilhar suas experiências. Junte-se a nós nesta jornada ecológica e descubra como as plantas podem transforme seu ambiente e sua vida!"
+    },
+    "code": {
+      "title": "Código",
+      "description": "Nossa equipe de desenvolvedores trabalha arduamente para garantir que nosso site seja seguro, eficiente e fácil de usar. Nesta seção, você encontrará detalhes sobre as tecnologias que usamos, melhores práticas de codificação e soluções criativas que desenvolvemos implementadas para oferecer a você um ambiente online excepcional."
+    },
+    "help": {
+      "title": "Ajuda",
+      "description": "Você pode entrar em contato conosco através dos nossos canais de contato, seja por telefone, e-mail ou chat ao vivo. Temos o compromisso de atender você com rapidez e soluções eficazes. Sua satisfação é nossa prioridade."
+    },
+    "contact": {
+      "title": "Entre em contato",
+      "email": "Email",
+      "phone": "Telefone"
+    }
+  }
+  

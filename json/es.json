@@ -1,0 +1,33 @@
+{
+    "common": {
+      "welcome": "Aplicación de multidiomas",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    },
+    "home": {
+      "title": "Inicio",
+      "subtitle": "Descubre una amplia variedad de plantas hermosas y saludables para embellecer tu hogar o jardín. En nuestra tienda, encontrarás una selección cuidadosamente cultivada de plantas de interior y exterior."
+    },
+    "about": {
+      "title": "Acerca",
+      "description": "Somos un apasionado equipo de amantes de las plantas dedicado a ofrecer la belleza y los beneficios de la naturaleza a tus espacios. Nuestra empresa se fundó con la visión de crear un lugar donde las personas puedan encontrar plantas excepcionales y recibir el mejor servicio posible."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "No importa si eres un aficionado a las plantas o un experto, nuestro blog tiene algo para todos. Te invitamos a explorar nuestras publicaciones, dejar comentarios y compartir tus experiencias. ¡Acompáñanos en este viaje verde y descubre cómo las plantas pueden transformar tu entorno y tu vida!"
+    },
+    "code": {
+      "title": "Código",
+      "description": "Nuestro equipo de desarrolladores trabaja arduamente para garantizar que nuestro sitio web sea seguro, eficiente y fácil de usar. En esta sección, encontrarás detalles sobre las tecnologías que utilizamos, las prácticas de codificación recomendadas y las soluciones creativas que hemos implementado para ofrecerte un entorno en línea excepcional."
+    },
+    "help": {
+      "title": "Ayuda",
+      "description": "Puedes comunicarte con nosotros a través de nuestros canales de contacto, ya sea por teléfono, correo electrónico o chat en vivo. Estamos comprometidos a proporcionarte respuestas rápidas y soluciones efectivas. Tu satisfacción es nuestra prioridad."
+    },
+    "contact": {
+      "title": "Contáctame",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono"
+    }
+  }
+  

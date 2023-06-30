@@ -1,0 +1,21 @@
+{
+    "common": {
+      "welcome": "Bienvenido",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    },
+    "home": {
+      "title": "Inicio",
+      "subtitle": "Bienvenido a mi portafolio"
+    },
+    "about": {
+      "title": "Acerca de Mí",
+      "description": "Soy un desarrollador web con pasión por crear experiencias de usuario increíbles."
+    },
+    "contact": {
+      "title": "Contáctame",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono"
+    }
+  }
+  
