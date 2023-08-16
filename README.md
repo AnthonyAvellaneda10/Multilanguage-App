@@ -1,5 +1,5 @@
 # Responsive Multilanguage Website 🌍 
-## [View Live Demo](https://multilanguage-app.netlify.app/)
+## [View Live Demo 👀](https://multilanguage-app.netlify.app/)
 ### Responsive Multilanguage Website 🌍
 
 - The Multi-Language Plants App allows users to experience the content in their preferred language. It provides a seamless language switcher that enables users to choose from a variety of supported languages.
@@ -10,4 +10,10 @@
 
 Explore my portfolio to discover more projects like this. [Portfolio Anthony Avellaneda](https://portafolio-anthony-avellaneda.netlify.app/)
 
-![multilanague website](/preview.png)
+### Browser view 🖥️
+
+![multilanague website 1](/preview.png)
+
+### Laptop view 💻
+
+![multilanague website 2](/preview_2.png)
